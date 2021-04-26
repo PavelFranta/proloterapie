@@ -10,23 +10,24 @@
 	},
 	"devDependencies": {
 		"@beyonk/svelte-carousel": "^2.8.0",
-		"@sveltejs/adapter-node": "next",
+		"@sveltejs/adapter-node": "^1.0.0-next.16",
 		"@sveltejs/adapter-static": "^1.0.0-next.0",
-		"@sveltejs/kit": "next",
+		"@sveltejs/kit": "^1.0.0-next.90",
 		"@tailwindcss/jit": "^0.1.18",
 		"autoprefixer": "^10.2.5",
 		"cssnano": "^4.1.10",
-		"postcss": "^8.2.9",
+		"postcss": "^8.2.13",
 		"postcss-load-config": "^3.0.1",
 		"prettier": "~2.2.1",
 		"prettier-plugin-svelte": "^2.2.0",
 		"svelte": "^3.29.0",
 		"svelte-feather-icons": "^3.3.0",
-		"svelte-preprocess": "^4.7.0",
-		"svelte-slidy": "^2.6.3",
-		"tailwindcss": "^2.1.0",
+		"svelte-preprocess": "^4.7.2",
+		"tailwindcss": "^2.1.2",
+		"vite": "^2.2.3",
 		"carbon-icons-svelte": "^10.28.0",
-		"vite": "^2.1.0"
+		"svelte-forms-lib": "^1.10.1",
+		"yup": "^0.32.9"
 	},
 	"type": "module"
 }

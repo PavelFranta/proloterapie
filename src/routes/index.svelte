@@ -3,6 +3,7 @@
 	import Network_432 from 'carbon-icons-svelte/lib/Network_432';
 	import Sunny32 from 'carbon-icons-svelte/lib/Sunny32';
 	import ReminderMedical32 from 'carbon-icons-svelte/lib/ReminderMedical32';
+	import Contact from '$lib/contact.svelte';
 </script>
 
 <div class="prague">
@@ -65,7 +66,7 @@
 	Domluvte si termín své konzultace
 </h2>
 <div class="triangle-down" />
-
+<Contact />
 <style>
 	.prague {
 		max-height: 500px;
