@@ -25,10 +25,8 @@
 		"svelte-preprocess": "^4.7.0",
 		"svelte-slidy": "^2.6.3",
 		"tailwindcss": "^2.1.0",
+		"carbon-icons-svelte": "^10.28.0",
 		"vite": "^2.1.0"
 	},
-	"type": "module",
-	"dependencies": {
-		"carbon-icons-svelte": "^10.28.0"
-	}
+	"type": "module"
 }
