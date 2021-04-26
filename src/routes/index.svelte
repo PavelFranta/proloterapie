@@ -15,7 +15,7 @@
 <div class="triangle-down" />
 <div class="max-w-screen-lg m-auto">
 	<div
-		class="bg-black md:h-96 flex flex-col md:flex-row justify-between py-8 text-center text-white"
+		class="bg-black flex flex-col md:flex-row justify-between py-8 text-center text-white"
 	>
 		<div class="flex-1 p-6">
 			<ReminderMedical32 class="text-green-900 m-auto mb-6 h-16 w-16" />
@@ -46,7 +46,8 @@
 <h2 class="px-6 py-4 leading-10 text-2xl text-center bg-white">Detailní popis léčby</h2>
 <div class="triangle-down" />
 <div class="bg-green-900">
-	<div class="max-w-screen-lg m-auto text-white treatment-detail py-10 md:py-20 bg-green-900">
+	<div class="max-w-screen-lg m-auto lg:flex md:items-center text-white treatment-detail py-10 md:py-20 bg-green-900">
+		<div>
 		<p>
 			Pacientovi je na léčené místo injekčně vpraven roztok dextrózy, který vytvoří lokální zánět.
 		</p>
@@ -54,6 +55,7 @@
 			Tím dojde k mobilizací imunitního systému, který zasáhne a začne toto místo intenzivně
 			regenerovat.
 		</p>
+	</div>
 		<p>Injekční aplikace trvá několik málo vteřin a je velmi dobře snášena i méně statečnými.</p>
 		<p>
 			Pro hluboké proléčení je třeba aplikaci v týdenních intervalech několikrát opakovat. Maximálně
