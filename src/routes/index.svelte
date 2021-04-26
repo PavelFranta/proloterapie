@@ -68,7 +68,7 @@
 	Domluvte si termín své konzultace
 </h2>
 <div class="triangle-down" />
-<Contact />
+<!-- <Contact /> -->
 <style>
 	.prague {
 		max-height: 500px;

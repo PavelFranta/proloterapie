@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 	import { createForm } from 'svelte-forms-lib';
 	import * as yup from 'yup';
 
@@ -98,4 +98,4 @@
 	label {
 		@apply text-white;
 	}
-</style>
+</style> -->
